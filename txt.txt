@@ -1,0 +1,79 @@
+Note d’accompagnement
+L’idée de ce projet est d’aller au delà de la pure création technique d’un site web en explorant des éléments moins “visibles”, mais tout aussi important, et notamment :
+
+le référencement (ou SEO) ;
+l’accessibilité ;
+l’optimisation des performances.
+De plus, ce projet, à la différence des autres, se base sur une maquette préalablement fournie et déjà codée en HTML/CSS. 
+
+C’est pour l’étudiant l’occasion de se confronter à un cas très commun dans la vie en entreprise : reprendre un code qui n’est pas le sien. 
+
+Cela lui permettra de développer un œil critique en repérant les erreurs (volontairement introduites dans la maquette fournie) et axes d’amélioration, mais également savoir apprécier ce qui a été correctement réalisé (le responsive). 
+
+Points de vigilance 
+Motivation : Il est possible que ce projet génère une certaine frustration dans la mesure où il est beaucoup moins technique que les autres et nécessite essentiellement des recherches et de la compréhension des mécanismes, notamment pour le SEO. Il ne faut pas hésiter, dans ce cas, à rappeler à l’élève les enjeux majeurs d’un référencement naturel efficace. Le but n’est pas seulement d’avoir un site fonctionnel, mais qu’il puisse être trouvé par la population cible (SEO) et utilisé agréablement par tous (accessibilité). 
+Les modifications demandée dans ce projet, même si elles sont peu visibles pour l’utilisateur lambda, sont pourtant essentielles pour la réussite de tout projet web. 
+
+Plagiat : Les modifications à faire sur le projet sont assez minimes et il est possible qu’un étudiant récupère la liste des recommandations sur un autre projet ou via workplace. Il est donc essentiel de s’assurer que l’étudiant ait conscience de chaque modification, et surtout des raisons pour lesquelles chacune d’entre elles est pertinente. 
+ 
+
+🕵️‍ Critères d’évaluation
+🎯Réaliser une recherche des bonnes pratiques en développement web
+
+Le rapport d’analyse est complet si :
+
+❒ Pour chaque problème identifié, sont complétés : la bonne pratique à adopter, l'explication du problème, la référence. 
+
+❒ Au moins 10 recommandations ont été sélectionnées pour améliorer le référencement et/ou la qualité globale du site web ;
+
+Le rapport d’analyse est pertinent si : 
+
+❒ Les recommandations de SEO et d’accessibilité constituent des bonnes pratiques à appliquer
+
+❒ Les bonnes pratiques à adopter sont étayées par des sources fiables (documentation, articles de recherche…) 
+
+🎯  Optimiser le référencement d'un site web.
+
+L’optimisation du référencement est complète si :
+
+❒ Les propositions ont été correctement implémentées ;
+
+❒ Le rapport d'optimisation contient des données et des captures d’écran comparatives ;
+
+L’optimisation du référencement est pertinente si :
+
+❒ Le rapport d’optimisation montre les améliorations.
+
+🎯Optimiser la taille et la vitesse d’un site web
+
+Le rapport d’analyse est complet si : 
+
+❒ Le rapport d’analyse SEO contient au moins une recommandation traitant de la taille et/ou de la vitesse du site
+
+Le rapport d’optimisation est pertinent si:
+
+❒ Le rapport d’optimisation contient des données démontrant l’amélioration de la vitesse de chargement et/ou de la taille du site
+
+ 🎯Assurer l’accessibilité d’un site web
+
+L’optimisation de l’accessibilité est complète si :
+
+❒ Dans le rapport d’analyse SEO, au moins une recommandation est liée à l’accessibilité
+
+❒ Le rapport d’optimisation contient des données prises avant et après l’optimisation.
+
+L’optimisation de l’accessibilité est pertinente si : 
+
+❒ La liste des implémentations fournies à cette adresse est complète.
+
+🎯 Écrire un code HTML et CSS maintenable
+
+Le code source du projet est validé si :
+
+❒ Le code HTML et CSS est correctement indenté ;
+
+❒ Le site passe le W3C pour le HTML et le CSS ;
+
+❒ Aucune erreur au niveau du responsive n’a été introduite lorsque l'étudiant a amélioré le site.
+
+Les erreurs W3C CSS liées aux variables d’environnement comme env() pourront être tolérées.
